@@ -1,6 +1,6 @@
 # Aplikasi Cuaca
 
-### An application to know the weather from everywhere
+An application to know the weather from everywhere
 ## Warning
 You need to get your own api key and replace it in index.js file on line 9 :
 
